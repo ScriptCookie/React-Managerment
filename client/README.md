@@ -1,6 +1,6 @@
 # Managerment System
 
-고객관리 시스템.
+김정빈
 
 # Getting Started with Create React App
 
